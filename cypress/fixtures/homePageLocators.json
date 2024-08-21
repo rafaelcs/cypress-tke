@@ -1,0 +1,7 @@
+{
+    "homePage": {
+      "configurationButton": "a[href='configuration-steps-2/']",
+      "menuButton": "#menu-btn",
+      "menuItens": "ul > li"
+    }
+}

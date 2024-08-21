@@ -1,0 +1,7 @@
+{
+    "configPage": {
+      "tabButtons": ".tabs-buttons",
+      "childrenTabButtons": "div[class*='tab-btn']",
+      "pageTitle": "h2[class='title']"
+    }
+}
